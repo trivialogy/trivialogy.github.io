@@ -1,5 +1,6 @@
 ---
 title: "The website is now up!"
+date: 2023-12-07T04:47:30+08:00
 categories:
   - announcement
 tags:
