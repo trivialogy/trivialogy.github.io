@@ -17,7 +17,7 @@ I am still getting used to the functioning of everything don't mind me.
 #include <iostream>
 
 int main() {
-	ios::cout << "Hello, world!" << endl;
+	std::cout << "Hello, world!" << std::endl;
 	return 0;
 }
 ```
